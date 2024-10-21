@@ -1,0 +1,36 @@
+name: Package JSON Change
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'package.json'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  package-json-change:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run the script
+        run: npm start
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: readme/update-${{ github.run_id }}
+          delete-branch: true
+          title: "'README.md' updated"
+          labels: |
+            automated pr
+          assignees: mthierba
+          reviewers: mthierba
+          draft: false
