@@ -1,0 +1,23 @@
+{
+  "name": "fabric-icons",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "description": "Publicly available SVG icons for Microsoft Fabric from the @fabric-msft/svg-icons NPM package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricTools/fabric-icons.git"
+  },
+  "keywords": [
+    "Fabric"
+  ],
+  "author": "Mathias Thierbach",
+  "license": "MIT",
+  "homepage": "https://github.com/FabricTools/fabric-icons#readme",
+  "dependencies": {
+    "@fabric-msft/svg-icons": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
