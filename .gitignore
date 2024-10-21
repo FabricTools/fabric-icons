@@ -24,6 +24,7 @@ jspm_packages/
 !node_modules/@fabric-msft/svg-icons/
 node_modules/@fabric-msft/svg-icons/**/*.[jt]s
 node_modules/@fabric-msft/svg-icons/**/*.md
+node_modules/@fabric-msft/svg-icons/**/*.json
 !node_modules/@fabric-msft/svg-icons/dist/
 !node_modules/@fabric-msft/svg-icons/dist/svg/
 !node_modules/@fabric-msft/svg-icons/dist/svg/*.svg
