@@ -54,7 +54,8 @@ fs.readdir(svgDir, (err, files) => {
       writeStream.write(`### ${baseName}\n\n`);
 
       files.forEach(file => {
-        const line = `![${file}](node_modules/@fabric-msft/svg-icons/dist/svg/${file})\n`;
+        const encodedFile = file.replace(/ /g, '%20');
+        const line = `![${file}](node_modules/@fabric-msft/svg-icons/dist/svg/${encodedFile})\n`;
         writeStream.write(line);
       });
 

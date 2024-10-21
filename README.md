@@ -2150,7 +2150,7 @@
 
 ### synapse_16_color .svg
 
-![synapse_16_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_16_color .svg)
+![synapse_16_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_16_color%20.svg)
 
 ### synapse
 
@@ -2169,23 +2169,23 @@
 
 ### synapse_20_color .svg
 
-![synapse_20_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_20_color .svg)
+![synapse_20_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_20_color%20.svg)
 
 ### synapse_24_color .svg
 
-![synapse_24_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_24_color .svg)
+![synapse_24_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_24_color%20.svg)
 
 ### synapse_28_color .svg
 
-![synapse_28_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_28_color .svg)
+![synapse_28_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_28_color%20.svg)
 
 ### synapse_32_color .svg
 
-![synapse_32_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_32_color .svg)
+![synapse_32_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_32_color%20.svg)
 
 ### synapse_48_color .svg
 
-![synapse_48_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_48_color .svg)
+![synapse_48_color .svg](node_modules/@fabric-msft/svg-icons/dist/svg/synapse_48_color%20.svg)
 
 ### synapse_data_engineering
 
