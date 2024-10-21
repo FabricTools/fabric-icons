@@ -1,4 +1,4 @@
-# fabric-icons (2.0.2)
+# fabric-icons (2.0.3)
 
 ## Items
 
@@ -1606,6 +1606,16 @@
 ![my_workspace_40_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/my_workspace_40_non-item.svg)
 ![my_workspace_48_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/my_workspace_48_non-item.svg)
 ![my_workspace_64_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/my_workspace_64_non-item.svg)
+
+### nodes_connected
+
+![nodes_connected_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/nodes_connected_20_filled.svg)
+![nodes_connected_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/nodes_connected_20_regular.svg)
+
+### nodes_triangle_connected_top
+
+![nodes_triangle_connected_top_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/nodes_triangle_connected_top_20_filled.svg)
+![nodes_triangle_connected_top_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/nodes_triangle_connected_top_20_regular.svg)
 
 ### notebook_code
 
