@@ -1,6 +1,6 @@
 {
   "name": "fabric-icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "main": "index.js",
   "description": "Publicly available SVG icons for Microsoft Fabric from the @fabric-msft/svg-icons NPM package",
