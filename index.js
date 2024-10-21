@@ -14,7 +14,7 @@ const filterFiles = (files, pattern) => {
 // Function to group files by base name
 const groupFilesByBaseName = (files) => {
   return files.reduce((groups, file) => {
-    const baseName = file.replace(/(_\d+[_a-zA-Z\-]*)\.svg$/, '');
+    const baseName = file.replace(/(_\d+[_a-zA-Z\-]*)\s?\.svg$/, '');
     if (!groups[baseName]) {
       groups[baseName] = [];
     }
@@ -54,7 +54,7 @@ fs.readdir(svgDir, (err, files) => {
       writeStream.write(`### ${baseName}\n\n`);
 
       files.forEach(file => {
-        const encodedFile = file.replace(/ /g, '%20');
+        const encodedFile = file.replace(/\s/g, '%20');
         const line = `![${file}](node_modules/@fabric-msft/svg-icons/dist/svg/${encodedFile})\n`;
         writeStream.write(line);
       });
