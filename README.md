@@ -1,4 +1,4 @@
-# fabric-icons (2.0.3)
+# fabric-icons (2.0.4)
 
 ## Items
 
@@ -565,6 +565,8 @@
 
 ### binoculars
 
+![binoculars_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/binoculars_16_filled.svg)
+![binoculars_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/binoculars_16_regular.svg)
 ![binoculars_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/binoculars_20_filled.svg)
 ![binoculars_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/binoculars_20_regular.svg)
 ![binoculars_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/binoculars_24_filled.svg)
@@ -1224,6 +1226,11 @@
 ![document_multiple_pulse_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_multiple_pulse_20_filled.svg)
 ![document_multiple_pulse_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_multiple_pulse_20_regular.svg)
 
+### document_multiple_question
+
+![document_multiple_question_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_multiple_question_20_filled.svg)
+![document_multiple_question_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_multiple_question_20_regular.svg)
+
 ### document_one_page_multiple_text
 
 ![document_one_page_multiple_text_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_one_page_multiple_text_20_filled.svg)
@@ -1232,6 +1239,11 @@
 ![document_one_page_multiple_text_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_one_page_multiple_text_24_regular.svg)
 ![document_one_page_multiple_text_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_one_page_multiple_text_32_filled.svg)
 ![document_one_page_multiple_text_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_one_page_multiple_text_32_regular.svg)
+
+### document_one_page_sparkles
+
+![document_one_page_sparkles_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_one_page_sparkles_20_filled.svg)
+![document_one_page_sparkles_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/document_one_page_sparkles_20_regular.svg)
 
 ### document_people
 
@@ -1299,6 +1311,11 @@
 ![equal_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/equal_16_regular.svg)
 ![equal_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/equal_20_filled.svg)
 ![equal_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/equal_20_regular.svg)
+
+### equal_off_circle
+
+![equal_off_circle_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/equal_off_circle_20_filled.svg)
+![equal_off_circle_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/equal_off_circle_20_regular.svg)
 
 ### event_house
 
