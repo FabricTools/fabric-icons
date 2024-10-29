@@ -43,6 +43,8 @@ fs.readdir(svgDir, (err, files) => {
 
   // Open the README.md file for writing
   const writeStream = fs.createWriteStream(readmePath, { flags: 'w' });
+  // Write header
+  writeStream.write(`![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)\n\n`);
   writeStream.write(`# fabric-icons (${version})\n\n`);
 
   // Function to write grouped files to README.md
