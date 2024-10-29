@@ -1,3 +1,5 @@
+![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
+
 # fabric-icons (2.0.4)
 
 ## Items
