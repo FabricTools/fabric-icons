@@ -1,0 +1,11 @@
+workloads:
+  - power_bi
+  - data_engineering
+  - data_factory
+  - data_science
+  - data_warehouse
+  - databases
+  - one_lake
+  - real_time_intelligence
+  - fabric
+  - copilot
