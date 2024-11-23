@@ -25,27 +25,6 @@
 ![copilot_48_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/copilot_48_filled.svg)
 ![copilot_48_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/copilot_48_regular.svg)
 
-### databases
-
-![databases_16_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_16_color.svg)
-![databases_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_16_filled.svg)
-![databases_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_16_regular.svg)
-![databases_20_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_20_color.svg)
-![databases_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_20_filled.svg)
-![databases_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_20_regular.svg)
-![databases_24_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_24_color.svg)
-![databases_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_24_filled.svg)
-![databases_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_24_regular.svg)
-![databases_28_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_28_color.svg)
-![databases_28_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_28_filled.svg)
-![databases_28_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_28_regular.svg)
-![databases_32_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_32_color.svg)
-![databases_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_32_filled.svg)
-![databases_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_32_regular.svg)
-![databases_48_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_48_color.svg)
-![databases_48_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_48_filled.svg)
-![databases_48_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_48_regular.svg)
-
 ### data_engineering
 
 ![data_engineering_16_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_engineering_16_color.svg)
@@ -128,6 +107,27 @@
 ![data_warehouse_48_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_48_filled.svg)
 ![data_warehouse_48_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_48_regular.svg)
 
+### databases
+
+![databases_16_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_16_color.svg)
+![databases_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_16_filled.svg)
+![databases_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_16_regular.svg)
+![databases_20_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_20_color.svg)
+![databases_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_20_filled.svg)
+![databases_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_20_regular.svg)
+![databases_24_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_24_color.svg)
+![databases_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_24_filled.svg)
+![databases_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_24_regular.svg)
+![databases_28_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_28_color.svg)
+![databases_28_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_28_filled.svg)
+![databases_28_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_28_regular.svg)
+![databases_32_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_32_color.svg)
+![databases_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_32_filled.svg)
+![databases_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_32_regular.svg)
+![databases_48_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_48_color.svg)
+![databases_48_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_48_filled.svg)
+![databases_48_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/databases_48_regular.svg)
+
 ### fabric
 
 ![fabric_16_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/fabric_16_color.svg)
@@ -148,6 +148,15 @@
 ![fabric_48_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/fabric_48_color.svg)
 ![fabric_48_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/fabric_48_filled.svg)
 ![fabric_48_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/fabric_48_regular.svg)
+
+### industry_solutions
+
+![industry_solutions_16_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_16_color.svg)
+![industry_solutions_20_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_20_color.svg)
+![industry_solutions_24_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_24_color.svg)
+![industry_solutions_28_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_28_color.svg)
+![industry_solutions_32_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_32_color.svg)
+![industry_solutions_48_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_48_color.svg)
 
 ### one_lake
 
@@ -255,6 +264,15 @@
 ![dashboard_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/dashboard_48_item.svg)
 ![dashboard_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/dashboard_64_item.svg)
 
+### data_warehouse
+
+![data_warehouse_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_20_item.svg)
+![data_warehouse_24_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_24_item.svg)
+![data_warehouse_32_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_32_item.svg)
+![data_warehouse_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_40_item.svg)
+![data_warehouse_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_48_item.svg)
+![data_warehouse_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_64_item.svg)
+
 ### dataflow
 
 ![dataflow_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/dataflow_20_item.svg)
@@ -282,15 +300,6 @@
 ![datamart_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/datamart_48_item.svg)
 ![datamart_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/datamart_64_item.svg)
 
-### data_warehouse
-
-![data_warehouse_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_20_item.svg)
-![data_warehouse_24_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_24_item.svg)
-![data_warehouse_32_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_32_item.svg)
-![data_warehouse_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_40_item.svg)
-![data_warehouse_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_48_item.svg)
-![data_warehouse_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_warehouse_64_item.svg)
-
 ### environment
 
 ![environment_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/environment_20_item.svg)
@@ -299,15 +308,6 @@
 ![environment_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/environment_40_item.svg)
 ![environment_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/environment_48_item.svg)
 ![environment_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/environment_64_item.svg)
-
-### eventstream
-
-![eventstream_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_20_item.svg)
-![eventstream_24_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_24_item.svg)
-![eventstream_32_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_32_item.svg)
-![eventstream_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_40_item.svg)
-![eventstream_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_48_item.svg)
-![eventstream_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_64_item.svg)
 
 ### event_house
 
@@ -326,6 +326,15 @@
 ![event_schema_set_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_schema_set_40_item.svg)
 ![event_schema_set_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_schema_set_48_item.svg)
 ![event_schema_set_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_schema_set_64_item.svg)
+
+### eventstream
+
+![eventstream_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_20_item.svg)
+![eventstream_24_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_24_item.svg)
+![eventstream_32_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_32_item.svg)
+![eventstream_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_40_item.svg)
+![eventstream_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_48_item.svg)
+![eventstream_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/eventstream_64_item.svg)
 
 ### experiments
 
@@ -486,15 +495,6 @@
 ![model_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/model_48_item.svg)
 ![model_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/model_64_item.svg)
 
-### notebook
-
-![notebook_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_20_item.svg)
-![notebook_24_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_24_item.svg)
-![notebook_32_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_32_item.svg)
-![notebook_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_40_item.svg)
-![notebook_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_48_item.svg)
-![notebook_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_64_item.svg)
-
 ### no_access_semantic_model
 
 ![no_access_semantic_model_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/no_access_semantic_model_20_item.svg)
@@ -503,6 +503,15 @@
 ![no_access_semantic_model_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/no_access_semantic_model_40_item.svg)
 ![no_access_semantic_model_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/no_access_semantic_model_48_item.svg)
 ![no_access_semantic_model_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/no_access_semantic_model_64_item.svg)
+
+### notebook
+
+![notebook_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_20_item.svg)
+![notebook_24_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_24_item.svg)
+![notebook_32_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_32_item.svg)
+![notebook_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_40_item.svg)
+![notebook_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_48_item.svg)
+![notebook_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_64_item.svg)
 
 ### paginated_report
 
@@ -766,11 +775,6 @@
 ![binoculars_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/binoculars_32_filled.svg)
 ![binoculars_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/binoculars_32_regular.svg)
 
-### bookmark_data_bar_vertical
-
-![bookmark_data_bar_vertical_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/bookmark_data_bar_vertical_20_filled.svg)
-![bookmark_data_bar_vertical_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/bookmark_data_bar_vertical_20_regular.svg)
-
 ### book_database
 
 ![book_database_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/book_database_20_filled.svg)
@@ -784,6 +788,11 @@
 ![book_open_data_cloud_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/book_open_data_cloud_20_regular.svg)
 ![book_open_data_cloud_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/book_open_data_cloud_24_filled.svg)
 ![book_open_data_cloud_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/book_open_data_cloud_24_regular.svg)
+
+### bookmark_data_bar_vertical
+
+![bookmark_data_bar_vertical_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/bookmark_data_bar_vertical_20_filled.svg)
+![bookmark_data_bar_vertical_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/bookmark_data_bar_vertical_20_regular.svg)
 
 ### border_inside_all
 
@@ -1067,6 +1076,61 @@
 ![cube_cone_sphere_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/cube_cone_sphere_20_filled.svg)
 ![cube_cone_sphere_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/cube_cone_sphere_20_regular.svg)
 
+### data_area_location
+
+![data_area_location_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_area_location_20_filled.svg)
+![data_area_location_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_area_location_20_regular.svg)
+
+### data_bar_vertical_edit
+
+![data_bar_vertical_edit_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_edit_20_filled.svg)
+![data_bar_vertical_edit_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_edit_20_regular.svg)
+![data_bar_vertical_edit_20px_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_edit_20px_filled.svg)
+![data_bar_vertical_edit_20px_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_edit_20px_regular.svg)
+
+### data_bar_vertical_highlight
+
+![data_bar_vertical_highlight_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_highlight_20_filled.svg)
+![data_bar_vertical_highlight_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_highlight_20_regular.svg)
+
+### data_bar_vertical_lightning
+
+![data_bar_vertical_lightning_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_lightning_20_filled.svg)
+![data_bar_vertical_lightning_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_lightning_20_regular.svg)
+
+### data_bar_vertical_phone
+
+![data_bar_vertical_phone_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_phone_20_filled.svg)
+![data_bar_vertical_phone_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_phone_20_regular.svg)
+
+### data_bar_vertical_prohibited
+
+![data_bar_vertical_prohibited_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_16_filled.svg)
+![data_bar_vertical_prohibited_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_16_regular.svg)
+![data_bar_vertical_prohibited_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_20_filled.svg)
+![data_bar_vertical_prohibited_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_20_regular.svg)
+![data_bar_vertical_prohibited_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_24_filled.svg)
+![data_bar_vertical_prohibited_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_24_regular.svg)
+![data_bar_vertical_prohibited_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_32_filled.svg)
+![data_bar_vertical_prohibited_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_32_regular.svg)
+
+### data_graph
+
+![data_graph_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_graph_20_filled.svg)
+![data_graph_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_graph_20_regular.svg)
+
+### data_histogram_function
+
+![data_histogram_function_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_histogram_function_16_filled.svg)
+![data_histogram_function_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_histogram_function_16_regular.svg)
+![data_histogram_function_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_histogram_function_20_filled.svg)
+![data_histogram_function_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_histogram_function_20_regular.svg)
+
+### data_tree
+
+![data_tree_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_tree_20_filled.svg)
+![data_tree_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_tree_20_regular.svg)
+
 ### database_arrow_forward
 
 ![database_arrow_forward_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/database_arrow_forward_16_filled.svg)
@@ -1243,61 +1307,6 @@
 ![datatype_unique_identifier_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/datatype_unique_identifier_16_regular.svg)
 ![datatype_unique_identifier_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/datatype_unique_identifier_20_filled.svg)
 ![datatype_unique_identifier_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/datatype_unique_identifier_20_regular.svg)
-
-### data_area_location
-
-![data_area_location_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_area_location_20_filled.svg)
-![data_area_location_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_area_location_20_regular.svg)
-
-### data_bar_vertical_edit
-
-![data_bar_vertical_edit_20px_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_edit_20px_filled.svg)
-![data_bar_vertical_edit_20px_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_edit_20px_regular.svg)
-![data_bar_vertical_edit_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_edit_20_filled.svg)
-![data_bar_vertical_edit_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_edit_20_regular.svg)
-
-### data_bar_vertical_highlight
-
-![data_bar_vertical_highlight_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_highlight_20_filled.svg)
-![data_bar_vertical_highlight_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_highlight_20_regular.svg)
-
-### data_bar_vertical_lightning
-
-![data_bar_vertical_lightning_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_lightning_20_filled.svg)
-![data_bar_vertical_lightning_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_lightning_20_regular.svg)
-
-### data_bar_vertical_phone
-
-![data_bar_vertical_phone_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_phone_20_filled.svg)
-![data_bar_vertical_phone_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_phone_20_regular.svg)
-
-### data_bar_vertical_prohibited
-
-![data_bar_vertical_prohibited_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_16_filled.svg)
-![data_bar_vertical_prohibited_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_16_regular.svg)
-![data_bar_vertical_prohibited_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_20_filled.svg)
-![data_bar_vertical_prohibited_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_20_regular.svg)
-![data_bar_vertical_prohibited_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_24_filled.svg)
-![data_bar_vertical_prohibited_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_24_regular.svg)
-![data_bar_vertical_prohibited_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_32_filled.svg)
-![data_bar_vertical_prohibited_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_bar_vertical_prohibited_32_regular.svg)
-
-### data_graph
-
-![data_graph_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_graph_20_filled.svg)
-![data_graph_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_graph_20_regular.svg)
-
-### data_histogram_function
-
-![data_histogram_function_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_histogram_function_16_filled.svg)
-![data_histogram_function_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_histogram_function_16_regular.svg)
-![data_histogram_function_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_histogram_function_20_filled.svg)
-![data_histogram_function_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_histogram_function_20_regular.svg)
-
-### data_tree
-
-![data_tree_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_tree_20_filled.svg)
-![data_tree_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_tree_20_regular.svg)
 
 ### developer_board_lightning_asterisk
 
@@ -1635,15 +1644,6 @@
 ![import_notebook_40_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/import_notebook_40_non-item.svg)
 ![import_notebook_48_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/import_notebook_48_non-item.svg)
 ![import_notebook_64_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/import_notebook_64_non-item.svg)
-
-### industry_solutions
-
-![industry_solutions_16_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_16_color.svg)
-![industry_solutions_20_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_20_color.svg)
-![industry_solutions_24_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_24_color.svg)
-![industry_solutions_28_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_28_color.svg)
-![industry_solutions_32_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_32_color.svg)
-![industry_solutions_48_color.svg](node_modules/@fabric-msft/svg-icons/dist/svg/industry_solutions_48_color.svg)
 
 ### info_no_circle
 
@@ -2004,6 +2004,11 @@
 ![settings_person_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/settings_person_24_filled.svg)
 ![settings_person_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/settings_person_24_regular.svg)
 
+### shape_ellipse
+
+![shape_ellipse_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shape_ellipse_20_filled.svg)
+![shape_ellipse_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shape_ellipse_20_regular.svg)
+
 ### shapes
 
 ![shapes_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shapes_20_filled.svg)
@@ -2034,11 +2039,6 @@
 
 ![shapes_toolbox_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shapes_toolbox_20_filled.svg)
 ![shapes_toolbox_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shapes_toolbox_20_regular.svg)
-
-### shape_ellipse
-
-![shape_ellipse_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shape_ellipse_20_filled.svg)
-![shape_ellipse_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shape_ellipse_20_regular.svg)
 
 ### shopping_bag_data_bar_vertical
 
@@ -2337,15 +2337,15 @@
 ![text_number_12s_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_12s_20_filled.svg)
 ![text_number_12s_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_12s_20_regular.svg)
 
-### text_number_1_2f
-
-![text_number_1_2f_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_1_2f_20_filled.svg)
-![text_number_1_2f_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_1_2f_20_regular.svg)
-
 ### text_number_1_2
 
 ![text_number_1_2_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_1_2_20_filled.svg)
 ![text_number_1_2_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_1_2_20_regular.svg)
+
+### text_number_1_2f
+
+![text_number_1_2f_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_1_2f_20_filled.svg)
+![text_number_1_2f_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_1_2f_20_regular.svg)
 
 ### text_number_field
 
