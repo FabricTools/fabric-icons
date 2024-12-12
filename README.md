@@ -1,6 +1,6 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
 
-# fabric-icons (3.0.0)
+# fabric-icons (3.0.2)
 
 ## Workloads
 
@@ -2177,6 +2177,11 @@
 ![stream_bracket_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/stream_bracket_32_filled.svg)
 ![stream_bracket_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/stream_bracket_32_regular.svg)
 
+### stream_search
+
+![stream_search_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/stream_search_20_filled.svg)
+![stream_search_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/stream_search_20_regular.svg)
+
 ### stream_settings
 
 ![stream_settings_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/stream_settings_20_filled.svg)
@@ -2440,6 +2445,15 @@
 
 ![window_person_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/window_person_20_filled.svg)
 ![window_person_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/window_person_20_regular.svg)
+
+### window_pulse
+
+![window_pulse_16_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/window_pulse_16_filled.svg)
+![window_pulse_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/window_pulse_16_regular.svg)
+![window_pulse_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/window_pulse_20_filled.svg)
+![window_pulse_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/window_pulse_20_regular.svg)
+![window_pulse_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/window_pulse_24_filled.svg)
+![window_pulse_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/window_pulse_24_regular.svg)
 
 ### window_relationship
 
