@@ -18,17 +18,6 @@ jspm_packages/
 # Optional eslint cache
 .eslintcache
 
-# Exclude .svg files in node_modules/@fabric-msft/svg-icons
-!node_modules/
-!node_modules/@fabric-msft/
-!node_modules/@fabric-msft/svg-icons/
-!node_modules/@fabric-msft/svg-icons/dist/
-!node_modules/@fabric-msft/svg-icons/dist/svg/
-node_modules/
-node_modules/@fabric-msft/svg-icons/**/*.[jt]s
-node_modules/@fabric-msft/svg-icons/**/*.json
-node_modules/@fabric-msft/svg-icons/*.md
-
 # Optional REPL history
 .node_repl_history
 
