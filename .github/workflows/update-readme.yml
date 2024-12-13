@@ -27,6 +27,11 @@ jobs:
       - name: Run the script
         run: npm start
 
+      - name: git add (force)
+        run: |
+          git add -f node_modules/@fabric-msft/svg-icons/dist/svg/*.svg
+          git add -f node_modules/@fabric-msft/svg-icons/dist/*.md
+
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v7
