@@ -1,6 +1,6 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
 
-# fabric-icons (3.0.2)
+# fabric-icons (3.0.3)
 
 ## Workloads
 
@@ -1071,6 +1071,11 @@
 ![cube_cone_arrow_curved_right_new_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/cube_cone_arrow_curved_right_new_20_filled.svg)
 ![cube_cone_arrow_curved_right_new_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/cube_cone_arrow_curved_right_new_20_regular.svg)
 
+### cube_cone_arrow_forward
+
+![cube_cone_arrow_forward_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/cube_cone_arrow_forward_20_filled.svg)
+![cube_cone_arrow_forward_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/cube_cone_arrow_forward_20_regular.svg)
+
 ### cube_cone_sphere
 
 ![cube_cone_sphere_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/cube_cone_sphere_20_filled.svg)
@@ -1130,6 +1135,11 @@
 
 ![data_tree_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_tree_20_filled.svg)
 ![data_tree_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/data_tree_20_regular.svg)
+
+### database_add
+
+![database_add_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/database_add_20_filled.svg)
+![database_add_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/database_add_20_regular.svg)
 
 ### database_arrow_forward
 
@@ -1806,6 +1816,11 @@
 
 ![pie_double_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/pie_double_20_filled.svg)
 ![pie_double_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/pie_double_20_regular.svg)
+
+### pipeline_note
+
+![pipeline_note_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/pipeline_note_20_filled.svg)
+![pipeline_note_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/pipeline_note_20_regular.svg)
 
 ### policy
 
