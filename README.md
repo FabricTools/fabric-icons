@@ -1,6 +1,6 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
 
-# fabric-icons (3.0.4)
+# fabric-icons (3.0.5)
 
 ## Workloads
 
@@ -431,15 +431,6 @@
 ![kql_database_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_database_48_item.svg)
 ![kql_database_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_database_64_item.svg)
 
-### kql_plug
-
-![kql_plug_16_filled_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_plug_16_filled_item.svg)
-![kql_plug_16_regular_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_plug_16_regular_item.svg)
-![kql_plug_20_filled_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_plug_20_filled_item.svg)
-![kql_plug_20_regular_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_plug_20_regular_item.svg)
-![kql_plug_24_filled_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_plug_24_filled_item.svg)
-![kql_plug_24_regular_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_plug_24_regular_item.svg)
-
 ### kql_queryset
 
 ![kql_queryset_20_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/kql_queryset_20_item.svg)
@@ -765,6 +756,11 @@
 ### arrow_trending_circle
 
 ![arrow_trending_circle_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/arrow_trending_circle_32_regular.svg)
+
+### asterisk
+
+![asterisk_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/asterisk_20_filled.svg)
+![asterisk_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/asterisk_20_regular.svg)
 
 ### asterisk_circle
 
@@ -1252,6 +1248,11 @@
 ![database_swap_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/database_swap_20_filled.svg)
 ![database_swap_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/database_swap_20_regular.svg)
 
+### database_table
+
+![database_table_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/database_table_20_filled.svg)
+![database_table_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/database_table_20_regular.svg)
+
 ### datatype_any
 
 ![datatype_any_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/datatype_any_20_filled.svg)
@@ -1587,6 +1588,11 @@
 ![gift_open_warning_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/gift_open_warning_24_regular.svg)
 ![gift_open_warning_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/gift_open_warning_32_filled.svg)
 ![gift_open_warning_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/gift_open_warning_32_regular.svg)
+
+### globe_settings
+
+![globe_settings_20_filed.svg](node_modules/@fabric-msft/svg-icons/dist/svg/globe_settings_20_filed.svg)
+![globe_settings_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/globe_settings_20_regular.svg)
 
 ### group_workspace
 
@@ -2381,6 +2387,11 @@
 
 ![text_number_sequence_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_sequence_20_filled.svg)
 ![text_number_sequence_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_number_sequence_20_regular.svg)
+
+### text_py
+
+![text_py_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_py_20_filled.svg)
+![text_py_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/text_py_20_regular.svg)
 
 ### toggle_multiple_sparkles
 
