@@ -1,6 +1,6 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
 
-# fabric-icons (3.0.6)
+# fabric-icons (4.0.0)
 
 ## Workloads
 
@@ -690,6 +690,11 @@
 ![add_pipeline_40_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/add_pipeline_40_non-item.svg)
 ![add_pipeline_48_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/add_pipeline_48_non-item.svg)
 ![add_pipeline_64_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/add_pipeline_64_non-item.svg)
+
+### airplane
+
+![airplane_12_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/airplane_12_filled.svg)
+![airplane_12_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/airplane_12_regular.svg)
 
 ### arrow_curved_right_circle
 
@@ -1814,6 +1819,11 @@
 ![notebook_globe_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_globe_20_filled.svg)
 ![notebook_globe_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/notebook_globe_20_regular.svg)
 
+### number_01_function
+
+![number_01_function_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/number_01_function_20_filled.svg)
+![number_01_function_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/number_01_function_20_regular.svg)
+
 ### odata
 
 ![odata_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/odata_20_filled.svg)
@@ -2096,6 +2106,16 @@
 ![shopping_bag_data_bar_vertical_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shopping_bag_data_bar_vertical_20_filled.svg)
 ![shopping_bag_data_bar_vertical_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/shopping_bag_data_bar_vertical_20_regular.svg)
 
+### signal_square
+
+![signal_square_12_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/signal_square_12_filled.svg)
+![signal_square_12_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/signal_square_12_regular.svg)
+
+### signal_tower
+
+![signal_tower_12_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/signal_tower_12_filled.svg)
+![signal_tower_12_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/signal_tower_12_regular.svg)
+
 ### slide_text_accept_dismiss
 
 ![slide_text_accept_dismiss_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/slide_text_accept_dismiss_20_filled.svg)
@@ -2178,6 +2198,8 @@
 ![square_multiple_overlap_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_20_regular.svg)
 ![square_multiple_overlap_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_24_filled.svg)
 ![square_multiple_overlap_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_24_regular.svg)
+![square_multiple_overlap_28_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_28_filled.svg)
+![square_multiple_overlap_28_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_28_regular.svg)
 ![square_multiple_overlap_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_32_filled.svg)
 ![square_multiple_overlap_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_32_regular.svg)
 
@@ -2204,6 +2226,10 @@
 
 ![square_multiple_overlap_line_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_line_20_filled.svg)
 ![square_multiple_overlap_line_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_line_20_regular.svg)
+![square_multiple_overlap_line_24_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_line_24_filled.svg)
+![square_multiple_overlap_line_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_line_24_regular.svg)
+![square_multiple_overlap_line_28_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_line_28_filled.svg)
+![square_multiple_overlap_line_28_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/square_multiple_overlap_line_28_regular.svg)
 
 ### square_text_lines
 
@@ -2313,6 +2339,11 @@
 
 ![table_external_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/table_external_20_filled.svg)
 ![table_external_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/table_external_20_regular.svg)
+
+### table_function
+
+![table_function_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/table_function_20_filled.svg)
+![table_function_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/table_function_20_regular.svg)
 
 ### table_header
 
@@ -2463,6 +2494,16 @@
 ![trophy_prohibited_24_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/trophy_prohibited_24_regular.svg)
 ![trophy_prohibited_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/trophy_prohibited_32_filled.svg)
 ![trophy_prohibited_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/trophy_prohibited_32_regular.svg)
+
+### vehicle_ship
+
+![vehicle_ship_12_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/vehicle_ship_12_filled.svg)
+![vehicle_ship_12_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/vehicle_ship_12_regular.svg)
+
+### vehicle_subway
+
+![vehicle_subway_12_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/vehicle_subway_12_filled.svg)
+![vehicle_subway_12_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/vehicle_subway_12_regular.svg)
 
 ### window_asterisk
 
