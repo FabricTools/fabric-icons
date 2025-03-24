@@ -1,6 +1,6 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
 
-# fabric-icons (4.0.0)
+# fabric-icons (4.0.1)
 
 ## Workloads
 
@@ -1842,6 +1842,8 @@
 ![partition_hint_16_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/partition_hint_16_regular.svg)
 ![partition_hint_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/partition_hint_20_filled.svg)
 ![partition_hint_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/partition_hint_20_regular.svg)
+![partition_hint_32_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/partition_hint_32_filled.svg)
+![partition_hint_32_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/partition_hint_32_regular.svg)
 
 ### person_warning
 
