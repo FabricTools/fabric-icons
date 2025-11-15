@@ -16,7 +16,7 @@
   "homepage": "https://github.com/FabricTools/fabric-icons#readme",
   "dependencies": {
     "@fabric-msft/svg-icons": "^4.0.3",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.1"
   },
   "scripts": {
     "start": "node index.js"
