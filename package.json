@@ -15,7 +15,7 @@
   "license": "MIT",
   "homepage": "https://github.com/FabricTools/fabric-icons#readme",
   "dependencies": {
-    "@fabric-msft/svg-icons": "^4.0.3",
+    "@fabric-msft/svg-icons": "^6.1.0",
     "js-yaml": "^4.1.1"
   },
   "scripts": {
