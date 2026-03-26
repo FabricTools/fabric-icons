@@ -382,12 +382,6 @@
 ![event_house_40_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_40_item.svg)
 ![event_house_48_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_48_item.svg)
 ![event_house_64_item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_64_item.svg)
-![event_house_20_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_20_non-item.svg)
-![event_house_24_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_24_non-item.svg)
-![event_house_32_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_32_non-item.svg)
-![event_house_40_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_40_non-item.svg)
-![event_house_48_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_48_non-item.svg)
-![event_house_64_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_64_non-item.svg)
 
 ### eventstream
 
@@ -1664,6 +1658,15 @@
 
 ![equal_off_circle_20_filled.svg](node_modules/@fabric-msft/svg-icons/dist/svg/equal_off_circle_20_filled.svg)
 ![equal_off_circle_20_regular.svg](node_modules/@fabric-msft/svg-icons/dist/svg/equal_off_circle_20_regular.svg)
+
+### event_house
+
+![event_house_20_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_20_non-item.svg)
+![event_house_24_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_24_non-item.svg)
+![event_house_32_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_32_non-item.svg)
+![event_house_40_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_40_non-item.svg)
+![event_house_48_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_48_non-item.svg)
+![event_house_64_non-item.svg](node_modules/@fabric-msft/svg-icons/dist/svg/event_house_64_non-item.svg)
 
 ### filter_settings
 
