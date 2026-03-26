@@ -60,8 +60,8 @@ fs.readdir(svgDir, (err, files) => {
     }
     return groups;
   }, {});
-  const groupedAllItemFiles = Object.entries(groupedConfiguredItemFiles).reduce((groups, [baseName, extraFiles]) => {
-    groups[baseName] = [...(groups[baseName] || []), ...extraFiles];
+  const groupedAllItemFiles = Object.entries(groupedConfiguredItemFiles).reduce((groups, [baseName, configuredFiles]) => {
+    groups[baseName] = [...(groups[baseName] || []), ...configuredFiles];
     return groups;
   }, { ...groupedItemFiles });
 
