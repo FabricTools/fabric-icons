@@ -13,6 +13,5 @@ workloads:
   - graph_intelligence
   - purview
 items:
-  - event_house
   - graph_model
   - graph_queryset
