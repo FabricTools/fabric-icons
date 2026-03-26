@@ -31,10 +31,12 @@ const version = packageJson.version;
 
 // Read and parse the config.yml file
 let workloads = [];
+let items = [];
 try {
   const configFile = fs.readFileSync(configPath, 'utf8');
   const config = yaml.load(configFile);
   workloads = config.workloads || [];
+  items = config.items || [];
 } catch (e) {
   console.error('Error reading config.yml:', e);
 }
@@ -52,6 +54,16 @@ fs.readdir(svgDir, (err, files) => {
   // All other .svg files
   const otherFiles = filterFiles(files, /\.svg$/).filter(file => !/_items?\.svg$/.test(file));
   const groupedOtherFiles = groupFilesByBaseName(otherFiles);
+  const groupedConfiguredItemFiles = items.reduce((groups, baseName) => {
+    if (groupedOtherFiles[baseName]) {
+      groups[baseName] = groupedOtherFiles[baseName];
+    }
+    return groups;
+  }, {});
+  const groupedAllItemFiles = Object.entries(groupedConfiguredItemFiles).reduce((groups, [baseName, configuredFiles]) => {
+    groups[baseName] = [...(groups[baseName] || []), ...configuredFiles];
+    return groups;
+  }, { ...groupedItemFiles });
 
   // Open the README.md file for writing
   const writeStream = fs.createWriteStream(readmePath, { flags: 'w' });
@@ -90,8 +102,8 @@ fs.readdir(svgDir, (err, files) => {
 
   // Write grouped item files and other files to README.md
   writeGroupedFiles(groupedOtherFiles, 'Workloads', workloads, null);
-  writeGroupedFiles(groupedItemFiles, 'Items');
-  writeGroupedFiles(groupedOtherFiles, 'Other', null, workloads);
+  writeGroupedFiles(groupedAllItemFiles, 'Items');
+  writeGroupedFiles(groupedOtherFiles, 'Other', null, [...workloads, ...items]);
 
   // Close the write stream
   writeStream.end(() => {

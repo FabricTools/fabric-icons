@@ -10,3 +10,8 @@ workloads:
   - fabric
   - copilot
   - industry_solutions
+  - graph_intelligence
+  - purview
+items:
+  - graph_model
+  - graph_queryset
