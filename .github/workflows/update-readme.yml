@@ -29,8 +29,8 @@ jobs:
 
       - name: git add (force)
         run: |
-          git add -f node_modules/@fabric-msft/svg-icons/dist/svg/*.svg
-          git add -f node_modules/@fabric-msft/svg-icons/dist/*.md
+          git add -f node_modules/@fabric-msft/svg-icons/svg/*.svg
+          git add -f node_modules/@fabric-msft/svg-icons/*.md
 
       - name: Create Pull Request
         id: cpr
