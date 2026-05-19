@@ -3,7 +3,7 @@ const path = require('path');
 const yaml = require('js-yaml');
 
 // Define the directory path
-const svgDir = path.join(__dirname, 'node_modules', '@fabric-msft', 'svg-icons', 'dist', 'svg');
+const svgDir = path.join(__dirname, 'node_modules', '@fabric-msft', 'svg-icons', 'svg');
 const readmePath = path.join(__dirname, 'README.md');
 const packageJsonPath = path.join(__dirname, 'node_modules', '@fabric-msft', 'svg-icons', 'package.json');
 const configPath = path.join(__dirname, 'config.yml');
@@ -92,7 +92,7 @@ fs.readdir(svgDir, (err, files) => {
 
       files.forEach(file => {
         const encodedFile = file.replace(/\s/g, '%20');
-        const line = `![${file}](node_modules/@fabric-msft/svg-icons/dist/svg/${encodedFile})\n`;
+        const line = `![${file}](node_modules/@fabric-msft/svg-icons/svg/${encodedFile})\n`;
         writeStream.write(line);
       });
 
