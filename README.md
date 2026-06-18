@@ -1,6 +1,6 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
 
-# fabric-icons (8.0.1)
+# fabric-icons (8.1.0)
 
 ## Workloads
 
@@ -329,6 +329,15 @@
 ![data_factory_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_factory_48_item.svg)
 ![data_factory_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_factory_64_item.svg)
 
+### data_quality
+
+![data_quality_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_quality_20_item.svg)
+![data_quality_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_quality_24_item.svg)
+![data_quality_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_quality_32_item.svg)
+![data_quality_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_quality_40_item.svg)
+![data_quality_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_quality_48_item.svg)
+![data_quality_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_quality_64_item.svg)
+
 ### data_warehouse
 
 ![data_warehouse_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/data_warehouse_20_item.svg)
@@ -571,6 +580,15 @@
 ![notebook_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/notebook_40_item.svg)
 ![notebook_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/notebook_48_item.svg)
 ![notebook_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/notebook_64_item.svg)
+
+### ontology
+
+![ontology_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/ontology_20_item.svg)
+![ontology_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/ontology_24_item.svg)
+![ontology_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/ontology_32_item.svg)
+![ontology_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/ontology_40_item.svg)
+![ontology_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/ontology_48_item.svg)
+![ontology_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/ontology_64_item.svg)
 
 ### operations_agent
 
@@ -2203,6 +2221,20 @@
 
 ![script_sparkle_add_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/script_sparkle_add_20_filled.svg)
 ![script_sparkle_add_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/script_sparkle_add_20_regular.svg)
+
+### search_pulse
+
+![search_pulse_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/search_pulse_16_filled.svg)
+![search_pulse_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/search_pulse_16_regular.svg)
+![search_pulse_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/search_pulse_20_filled.svg)
+![search_pulse_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/search_pulse_20_regular.svg)
+
+### search_pulse_add
+
+![search_pulse_add_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/search_pulse_add_16_filled.svg)
+![search_pulse_add_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/search_pulse_add_16_regular.svg)
+![search_pulse_add_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/search_pulse_add_20_filled.svg)
+![search_pulse_add_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/search_pulse_add_20_regular.svg)
 
 ### send_circle
 
