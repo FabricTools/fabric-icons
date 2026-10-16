@@ -1,6 +1,6 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
 
-# fabric-icons (8.2.0)
+# fabric-icons (11.0.0)
 
 ## Workloads
 
@@ -266,6 +266,15 @@
 
 ## Items
 
+### action
+
+![action_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/action_20_item.svg)
+![action_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/action_24_item.svg)
+![action_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/action_32_item.svg)
+![action_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/action_40_item.svg)
+![action_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/action_48_item.svg)
+![action_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/action_64_item.svg)
+
 ### apps
 
 ![apps_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/apps_20_item.svg)
@@ -446,14 +455,23 @@
 ![external_semantic_model_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/external_semantic_model_48_item.svg)
 ![external_semantic_model_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/external_semantic_model_64_item.svg)
 
-### function_set
+### fabric_apps
 
-![function_set_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_20_item.svg)
-![function_set_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_24_item.svg)
-![function_set_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_32_item.svg)
-![function_set_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_40_item.svg)
-![function_set_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_48_item.svg)
-![function_set_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_64_item.svg)
+![fabric_apps_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/fabric_apps_20_item.svg)
+![fabric_apps_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/fabric_apps_24_item.svg)
+![fabric_apps_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/fabric_apps_32_item.svg)
+![fabric_apps_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/fabric_apps_40_item.svg)
+![fabric_apps_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/fabric_apps_48_item.svg)
+![fabric_apps_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/fabric_apps_64_item.svg)
+
+### feature_store
+
+![feature_store_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/feature_store_20_item.svg)
+![feature_store_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/feature_store_24_item.svg)
+![feature_store_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/feature_store_32_item.svg)
+![feature_store_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/feature_store_40_item.svg)
+![feature_store_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/feature_store_48_item.svg)
+![feature_store_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/feature_store_64_item.svg)
 
 ### generic_placeholder
 
@@ -532,9 +550,9 @@
 ![mirrored_catalog_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/mirrored_catalog_20_item.svg)
 ![mirrored_catalog_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/mirrored_catalog_24_item.svg)
 ![mirrored_catalog_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/mirrored_catalog_32_item.svg)
+![mirrored_catalog_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/mirrored_catalog_40_item.svg)
 ![mirrored_catalog_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/mirrored_catalog_48_item.svg)
 ![mirrored_catalog_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/mirrored_catalog_64_item.svg)
-![mirrored_catalog_65_item.svg](node_modules/@fabric-msft/svg-icons/svg/mirrored_catalog_65_item.svg)
 
 ### mirrored_generic_database
 
@@ -779,14 +797,14 @@
 ![sustainability_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/sustainability_48_item.svg)
 ![sustainability_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/sustainability_64_item.svg)
 
-### user_data_function
+### user_data_functions
 
-![user_data_function_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_function_20_item.svg)
-![user_data_function_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_function_24_item.svg)
-![user_data_function_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_function_32_item.svg)
-![user_data_function_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_function_40_item.svg)
-![user_data_function_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_function_48_item.svg)
-![user_data_function_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_function_64_item.svg)
+![user_data_functions_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_functions_20_item.svg)
+![user_data_functions_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_functions_24_item.svg)
+![user_data_functions_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_functions_32_item.svg)
+![user_data_functions_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_functions_40_item.svg)
+![user_data_functions_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_functions_48_item.svg)
+![user_data_functions_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/user_data_functions_64_item.svg)
 
 ### variable_library
 
@@ -1728,42 +1746,24 @@
 ![folder_open_data_bar_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/folder_open_data_bar_20_filled.svg)
 ![folder_open_data_bar_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/folder_open_data_bar_20_regular.svg)
 
-### folder_search_shortcut_16_filled 1.svg
+### folder_search_shortcut
 
-![folder_search_shortcut_16_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/folder_search_shortcut_16_filled%201.svg)
-
-### folder_search_shortcut_16_regular 1.svg
-
-![folder_search_shortcut_16_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/folder_search_shortcut_16_regular%201.svg)
-
-### folder_search_shortcut_20_filled 1.svg
-
-![folder_search_shortcut_20_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/folder_search_shortcut_20_filled%201.svg)
-
-### folder_search_shortcut_20_regular 1.svg
-
-![folder_search_shortcut_20_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/folder_search_shortcut_20_regular%201.svg)
+![folder_search_shortcut_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/folder_search_shortcut_16_filled.svg)
+![folder_search_shortcut_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/folder_search_shortcut_16_regular.svg)
+![folder_search_shortcut_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/folder_search_shortcut_20_filled.svg)
+![folder_search_shortcut_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/folder_search_shortcut_20_regular.svg)
 
 ### folder_share
 
 ![folder_share_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/folder_share_20_filled.svg)
 ![folder_share_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/folder_share_20_regular.svg)
 
-### folder_shortcut_16_filled 1.svg
+### folder_shortcut
 
-![folder_shortcut_16_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/folder_shortcut_16_filled%201.svg)
-
-### folder_shortcut_16_regular 1.svg
-
-![folder_shortcut_16_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/folder_shortcut_16_regular%201.svg)
-
-### folder_shortcut_20_filled 1.svg
-
-![folder_shortcut_20_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/folder_shortcut_20_filled%201.svg)
-
-### folder_shortcut_20_regular 1.svg
-
-![folder_shortcut_20_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/folder_shortcut_20_regular%201.svg)
+![folder_shortcut_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/folder_shortcut_16_filled.svg)
+![folder_shortcut_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/folder_shortcut_16_regular.svg)
+![folder_shortcut_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/folder_shortcut_20_filled.svg)
+![folder_shortcut_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/folder_shortcut_20_regular.svg)
 
 ### folder_table
 
@@ -1773,17 +1773,6 @@
 ![folder_table_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/folder_table_20_regular.svg)
 ![folder_table_24_filled.svg](node_modules/@fabric-msft/svg-icons/svg/folder_table_24_filled.svg)
 ![folder_table_24_regular.svg](node_modules/@fabric-msft/svg-icons/svg/folder_table_24_regular.svg)
-
-### function_set
-
-![function_set_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_16_filled.svg)
-![function_set_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_16_regular.svg)
-![function_set_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_20_filled.svg)
-![function_set_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_20_regular.svg)
-![function_set_24_filled.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_24_filled.svg)
-![function_set_24_regular.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_24_regular.svg)
-![function_set_32_filled.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_32_filled.svg)
-![function_set_32_regular.svg](node_modules/@fabric-msft/svg-icons/svg/function_set_32_regular.svg)
 
 ### funnel
 
@@ -2207,6 +2196,13 @@
 ![rectangle_multiple_diff_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/rectangle_multiple_diff_20_filled.svg)
 ![rectangle_multiple_diff_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/rectangle_multiple_diff_20_regular.svg)
 
+### replay_flip
+
+![replay_flip_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/replay_flip_16_filled.svg)
+![replay_flip_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/replay_flip_16_regular.svg)
+![replay_flip_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/replay_flip_20_filled.svg)
+![replay_flip_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/replay_flip_20_regular.svg)
+
 ### sample
 
 ![sample_20_non-item.svg](node_modules/@fabric-msft/svg-icons/svg/sample_20_non-item.svg)
@@ -2532,37 +2528,19 @@
 ![table_column_brackets_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_brackets_20_filled.svg)
 ![table_column_brackets_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_brackets_20_regular.svg)
 
-### table_column_double_chevron_link_16_filled 1.svg
+### table_column_double_chevron_link
 
-![table_column_double_chevron_link_16_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_link_16_filled%201.svg)
+![table_column_double_chevron_link_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_link_16_filled.svg)
+![table_column_double_chevron_link_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_link_16_regular.svg)
+![table_column_double_chevron_link_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_link_20_filled.svg)
+![table_column_double_chevron_link_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_link_20_regular.svg)
 
-### table_column_double_chevron_link_16_regular 1.svg
+### table_column_double_chevron_shortcut
 
-![table_column_double_chevron_link_16_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_link_16_regular%201.svg)
-
-### table_column_double_chevron_link_20_filled 1.svg
-
-![table_column_double_chevron_link_20_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_link_20_filled%201.svg)
-
-### table_column_double_chevron_link_20_regular 1.svg
-
-![table_column_double_chevron_link_20_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_link_20_regular%201.svg)
-
-### table_column_double_chevron_shortcut_16_filled 1.svg
-
-![table_column_double_chevron_shortcut_16_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_shortcut_16_filled%201.svg)
-
-### table_column_double_chevron_shortcut_16_regular 1.svg
-
-![table_column_double_chevron_shortcut_16_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_shortcut_16_regular%201.svg)
-
-### table_column_double_chevron_shortcut_20_filled 1.svg
-
-![table_column_double_chevron_shortcut_20_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_shortcut_20_filled%201.svg)
-
-### table_column_double_chevron_shortcut_20_regular 1.svg
-
-![table_column_double_chevron_shortcut_20_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_shortcut_20_regular%201.svg)
+![table_column_double_chevron_shortcut_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_shortcut_16_filled.svg)
+![table_column_double_chevron_shortcut_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_shortcut_16_regular.svg)
+![table_column_double_chevron_shortcut_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_shortcut_20_filled.svg)
+![table_column_double_chevron_shortcut_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/table_column_double_chevron_shortcut_20_regular.svg)
 
 ### table_column_function
 
@@ -2654,21 +2632,12 @@
 ![table_multiple_arrow_curved_right_new_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/table_multiple_arrow_curved_right_new_20_filled.svg)
 ![table_multiple_arrow_curved_right_new_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/table_multiple_arrow_curved_right_new_20_regular.svg)
 
-### table_shortcut_16_filled 1.svg
+### table_shortcut
 
-![table_shortcut_16_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_shortcut_16_filled%201.svg)
-
-### table_shortcut_16_regular 1.svg
-
-![table_shortcut_16_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_shortcut_16_regular%201.svg)
-
-### table_shortcut_20_filled 1.svg
-
-![table_shortcut_20_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_shortcut_20_filled%201.svg)
-
-### table_shortcut_20_regular 1.svg
-
-![table_shortcut_20_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/table_shortcut_20_regular%201.svg)
+![table_shortcut_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/table_shortcut_16_filled.svg)
+![table_shortcut_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/table_shortcut_16_regular.svg)
+![table_shortcut_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/table_shortcut_20_filled.svg)
+![table_shortcut_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/table_shortcut_20_regular.svg)
 
 ### table_text_cdc
 
@@ -2790,37 +2759,26 @@
 ![trophy_prohibited_32_filled.svg](node_modules/@fabric-msft/svg-icons/svg/trophy_prohibited_32_filled.svg)
 ![trophy_prohibited_32_regular.svg](node_modules/@fabric-msft/svg-icons/svg/trophy_prohibited_32_regular.svg)
 
-### vehicle_car_multiple_16_filled 1.svg
+### vector
 
-![vehicle_car_multiple_16_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_16_filled%201.svg)
+![vector_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/vector_16_filled.svg)
+![vector_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/vector_16_regular.svg)
+![vector_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/vector_20_filled.svg)
+![vector_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/vector_20_regular.svg)
 
-### vehicle_car_multiple_16_regular 1.svg
+### vehicle_car_multiple
 
-![vehicle_car_multiple_16_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_16_regular%201.svg)
+![vehicle_car_multiple_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_16_filled.svg)
+![vehicle_car_multiple_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_16_regular.svg)
+![vehicle_car_multiple_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_20_filled.svg)
+![vehicle_car_multiple_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_20_regular.svg)
 
-### vehicle_car_multiple_20_filled 1.svg
+### vehicle_car_multiple_off
 
-![vehicle_car_multiple_20_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_20_filled%201.svg)
-
-### vehicle_car_multiple_20_regular 1.svg
-
-![vehicle_car_multiple_20_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_20_regular%201.svg)
-
-### vehicle_car_multiple_off_16_filled 1.svg
-
-![vehicle_car_multiple_off_16_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_off_16_filled%201.svg)
-
-### vehicle_car_multiple_off_16_regular 1.svg
-
-![vehicle_car_multiple_off_16_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_off_16_regular%201.svg)
-
-### vehicle_car_multiple_off_20_filled 1.svg
-
-![vehicle_car_multiple_off_20_filled 1.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_off_20_filled%201.svg)
-
-### vehicle_car_multiple_off_20_regular 1.svg
-
-![vehicle_car_multiple_off_20_regular 1.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_off_20_regular%201.svg)
+![vehicle_car_multiple_off_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_off_16_filled.svg)
+![vehicle_car_multiple_off_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_off_16_regular.svg)
+![vehicle_car_multiple_off_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_off_20_filled.svg)
+![vehicle_car_multiple_off_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/vehicle_car_multiple_off_20_regular.svg)
 
 ### vehicle_ship
 
