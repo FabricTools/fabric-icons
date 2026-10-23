@@ -1,6 +1,6 @@
 ![NPM Version](https://img.shields.io/npm/v/%40fabric-msft%2Fsvg-icons?label=svg-icons)
 
-# fabric-icons (11.0.0)
+# fabric-icons (11.1.0)
 
 ## Workloads
 
@@ -535,6 +535,15 @@
 ![links_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/links_40_item.svg)
 ![links_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/links_48_item.svg)
 ![links_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/links_64_item.svg)
+
+### managed_identity
+
+![managed_identity_20_item.svg](node_modules/@fabric-msft/svg-icons/svg/managed_identity_20_item.svg)
+![managed_identity_24_item.svg](node_modules/@fabric-msft/svg-icons/svg/managed_identity_24_item.svg)
+![managed_identity_32_item.svg](node_modules/@fabric-msft/svg-icons/svg/managed_identity_32_item.svg)
+![managed_identity_40_item.svg](node_modules/@fabric-msft/svg-icons/svg/managed_identity_40_item.svg)
+![managed_identity_48_item.svg](node_modules/@fabric-msft/svg-icons/svg/managed_identity_48_item.svg)
+![managed_identity_64_item.svg](node_modules/@fabric-msft/svg-icons/svg/managed_identity_64_item.svg)
 
 ### metric_sets
 
@@ -1379,6 +1388,27 @@
 ![database_globe_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/database_globe_20_filled.svg)
 ![database_globe_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/database_globe_20_regular.svg)
 
+### database_hub
+
+![database_hub_16_color.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_16_color.svg)
+![database_hub_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_16_filled.svg)
+![database_hub_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_16_regular.svg)
+![database_hub_20_color.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_20_color.svg)
+![database_hub_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_20_filled.svg)
+![database_hub_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_20_regular.svg)
+![database_hub_24_color.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_24_color.svg)
+![database_hub_24_filled.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_24_filled.svg)
+![database_hub_24_regular.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_24_regular.svg)
+![database_hub_28_color.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_28_color.svg)
+![database_hub_28_filled.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_28_filled.svg)
+![database_hub_28_regular.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_28_regular.svg)
+![database_hub_32_color.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_32_color.svg)
+![database_hub_32_filled.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_32_filled.svg)
+![database_hub_32_regular.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_32_regular.svg)
+![database_hub_48_color.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_48_color.svg)
+![database_hub_48_filled.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_48_filled.svg)
+![database_hub_48_regular.svg](node_modules/@fabric-msft/svg-icons/svg/database_hub_48_regular.svg)
+
 ### database_kql
 
 ![database_kql_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/database_kql_20_filled.svg)
@@ -2136,6 +2166,27 @@
 ![pulse_square_person_24_regular.svg](node_modules/@fabric-msft/svg-icons/svg/pulse_square_person_24_regular.svg)
 ![pulse_square_person_32_filled.svg](node_modules/@fabric-msft/svg-icons/svg/pulse_square_person_32_filled.svg)
 ![pulse_square_person_32_regular.svg](node_modules/@fabric-msft/svg-icons/svg/pulse_square_person_32_regular.svg)
+
+### rayfin
+
+![rayfin_16_color.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_16_color.svg)
+![rayfin_16_filled.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_16_filled.svg)
+![rayfin_16_regular.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_16_regular.svg)
+![rayfin_20_color.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_20_color.svg)
+![rayfin_20_filled.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_20_filled.svg)
+![rayfin_20_regular.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_20_regular.svg)
+![rayfin_24_color.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_24_color.svg)
+![rayfin_24_filled.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_24_filled.svg)
+![rayfin_24_regular.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_24_regular.svg)
+![rayfin_28_color.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_28_color.svg)
+![rayfin_28_filled.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_28_filled.svg)
+![rayfin_28_regular.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_28_regular.svg)
+![rayfin_32_color.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_32_color.svg)
+![rayfin_32_filled.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_32_filled.svg)
+![rayfin_32_regular.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_32_regular.svg)
+![rayfin_48_color.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_48_color.svg)
+![rayfin_48_filled.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_48_filled.svg)
+![rayfin_48_regular.svg](node_modules/@fabric-msft/svg-icons/svg/rayfin_48_regular.svg)
 
 ### receipt_kql
 
